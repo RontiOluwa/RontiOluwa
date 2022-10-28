@@ -1,4 +1,4 @@
-# 💫 About Me:
+#: Hi 👋, I'm Olaoluwa Ojedapo
 🔭 I’m currently working on MonkeyDoo NFT Project<br>🌱 I'm learning more about blockchain right now.<br>💬 Ask me about Frontend Development<br>📫 How to reach me olaoluwaojedapo@gmail.com<br>👯 I’m looking to collaborate on Web 3 Projects<br>⚡ I love football
 
 
